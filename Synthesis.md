@@ -9,4 +9,3 @@ constructing a more complex thing from simpler parts.
     
 - **RNA synthesis** = building RNA from nucleotides (RNA polymerase).
 
-hee hee hoo hoo 
