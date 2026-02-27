@@ -1,0 +1,1 @@
+- the angle decreases, bringing bones together; its opp -> [[Extension]]

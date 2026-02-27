@@ -1,0 +1,12 @@
+# Normalize all text files to LF in the repo and in working copies
+* text=auto eol=lf
+
+# Obsidian / markdown / text-like files explicitly
+*.md   text eol=lf
+*.txt  text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml  text eol=lf
+*.base text eol=lf
+
+*.js text eol=lf

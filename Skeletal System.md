@@ -1,0 +1,1 @@
+bones, cartilage associated ligaments, bone marrow that provide support and protection for other tissues, stores calcium, phosphorous and other minerals,**site of hemopoiesis** which produces blood cells.

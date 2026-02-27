@@ -1,0 +1,1 @@
+Function label of the joint being Immobile 

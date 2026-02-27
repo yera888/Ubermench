@@ -1,0 +1,1 @@
+ They can move slightly through birth allowing fetus to pass through birth canal. 

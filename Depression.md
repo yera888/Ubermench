@@ -1,0 +1,1 @@
+Movement of a body part inferiorly

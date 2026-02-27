@@ -1,0 +1,1 @@
+- The angle increases moving the bones away ; its opp -> [[Flexion]]

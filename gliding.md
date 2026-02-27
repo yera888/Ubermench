@@ -1,0 +1,1 @@
+Two opposing articular surfaces slide past each other in almost any direction

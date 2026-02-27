@@ -1,0 +1,1 @@
+Outside of and physically separate from articular capsule 

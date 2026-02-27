@@ -1,0 +1,1 @@
+They allow slight movements between the adjacent vertebra however collectively they can make the spine very flexible.

@@ -1,0 +1,51 @@
+{
+  "userAdmonitions": {
+    "Link": {
+      "type": "Link",
+      "color": "243, 242, 242",
+      "icon": {
+        "name": "american-sign-language-interpreting",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Link",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "Memorization": {
+      "type": "Memorization",
+      "color": "227, 125, 125",
+      "icon": {
+        "name": "apple-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Quick Memory",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.b274af"
+}

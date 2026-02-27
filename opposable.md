@@ -1,0 +1,1 @@
+The ability of the thumb to move towards the other fingers. 

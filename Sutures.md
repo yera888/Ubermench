@@ -1,0 +1,1 @@
+ Their edges make them difficult to fracture. In an older adult the dense regular tissue becomes ossified fusing the skill bone together when they completely fuse they become synostoses. 
