@@ -1,0 +1,1 @@
+1- 22 chromosome pairs, a chromosome that does not differ based on sex. 

@@ -1,0 +1,1 @@
+is a protein that regulates the expression of a gene by binding to a specific DNA sequence in association with the gene sequence. A single transcription factor can regulate many genes if they share the same regulatory sequence. 

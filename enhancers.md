@@ -1,0 +1,1 @@
+is a short sequence of DNA within the gene control region where activator proteins bind to initiate gene expression.

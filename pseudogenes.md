@@ -1,0 +1,1 @@
+gene-like DNA sequences that look like genes but usually don’t make functional proteins (often broken copies).

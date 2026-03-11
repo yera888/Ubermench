@@ -1,0 +1,1 @@
+separated from each other by noncoding sections of DNA called [[introns]].

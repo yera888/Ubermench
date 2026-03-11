@@ -1,0 +1,1 @@
+is a [[protein]] that binds to a sequence of DNA or RNA and inhibits the expression of one or more genes.

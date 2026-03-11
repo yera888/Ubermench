@@ -1,0 +1,3 @@
+Takes place inside a [[ribosome]].  When the ribosome binds to the mRNA molecule and goes down the sequence of bases, it grabs 3 bases at a time. Each trio encodes a different amino acid, and those can be added to the growing protein. Amino acids float around the cell bound to an RNA called [[tRNA]] each tRNA binds to a codon ,delivering an amino acid to the protein. 
+
+**[[Translation]]**: Acts at **Protein synthesis (RNA → protein)**

@@ -1,0 +1,1 @@
+The cytoplasm is a gel-like substance made mostly of water that fills the interior of cells. Organelles and proteins inside a cell are suspended within the cytoplasm.

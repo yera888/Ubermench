@@ -1,0 +1,1 @@
+The same genotype producing different phenotypes depending on the environment.

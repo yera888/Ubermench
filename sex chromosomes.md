@@ -1,0 +1,1 @@
+a chromosome that pairs during meiosis but differs in copy number between males and females. For organisms such as humans with XY sex determination, X and Y are the sex chromosomes. Females are the homogametic sex (XX) and males are the heterogametic sex (XY).

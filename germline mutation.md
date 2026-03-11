@@ -1,0 +1,1 @@
+mutation in sperm/egg lineage; can be passed off to offspring.

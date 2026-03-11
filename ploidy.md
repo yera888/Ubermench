@@ -1,0 +1,1 @@
+refers to the number of copies of unique chromosomes in a cell (n). Typical human somatic cells are diploid (2n); they have two copies of 23 chromosomes.
