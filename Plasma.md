@@ -11,3 +11,4 @@ Transports nutrients that have been absorbed from the GI tract, transports hormo
 ###### Regulation
 Absorbs and distributes head throughout the body, If body needs to be cooled the blood vessels dilate and dissipates the heat through skin. If it needs heat the dermal blood vessels constrict and warm blood goes to deeper blood vessels. 
 
+Contains ions and compounds that are distributed to the cells in the interstitial fluid to maintain the normal 
