@@ -1,0 +1,1 @@
+Transports oxygen and carbon dioxide. Its gives blood its reddish color but the sahde of that red will vary 
