@@ -1,0 +1,1 @@
+Fragments of broken off cells that form a larger cell . And is a formed element and **NOT a cell**. 

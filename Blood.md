@@ -1,0 +1,32 @@
+
+Its a regenerative **fluid** connective tissue - made of living cells suspended in a nonliving matrix (liquid ground substance; The fluid ground substance [[Plasma]]) and dissolved proteins. 
+
+X4 more viscous then water. 
+
+- its about 1 degree Celsius higher than body temperature 
+
+---
+## Functions:
+
+###### Transportation
+Transports [[elements]] and [[compounds]] through the body. gases, hormones, nutrients, wastes.
+
+###### Regulation
+Maintains body temperature.
+
+Balances Ph in the bodies tissue. and respiratory and urinary system.
+
+Defense 
+against microorganisms like viruses and bacteria.
+
+
+
+---
+
+
+To maintain [[homeostasis]] blood must circulate throughout the body continuously. Blood circulation occurs through the pumping of the heart, if it fails to pump adequate volumes of blood the cells become deprived of nutrients and oxygen, wastes accumulate and cell death may occur. 
+
+Every 2 seconds someone needs blood. Whole blood can be separated into liquid and cells through a [[centrifuge]].
+
+Blood takes up 8% of body weight.
+
