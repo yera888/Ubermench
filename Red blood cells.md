@@ -29,10 +29,11 @@ Every erythrocyte is filled with 280 million molecules of a red pigmented protei
 ## Life cycle 
 How they are recycled.
 
-Erythropoiesis -> 
+Erythropoiesis -> (what stimulates the production of RBC hormone made in the kidney)
 1. Erythrocytes form in [[red bone marrow]], begins with cells called hemocytoblasts or [[stem cells]]
 2. They enter the blood through capillaries by squeezing through the wall in a process called diapedesis. and circulate for 120 days
 3. Once they're aged thy are phagocytized in the liver and spleen
 4. The heme components are recycled 
 	1. (minus iron) first converted into biliverdin which is converted into [[bilirubin]]. 
-
+	2. (THE iron ions left over) is transported in the blood by the protein transferrin and stored by protein ferritin in the liver. 
+5. Erythrocyte membrane proteins and goblin proteins are broken down into amino acids which some then make new RBC
