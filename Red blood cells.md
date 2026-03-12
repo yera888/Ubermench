@@ -41,6 +41,9 @@ Erythropoiesis -> (what stimulates the production of RBC hormone made in the kid
 ---
 
 ## Anemia
+
+without [[iron]] the body cannot synthesize hemoglobin and the ability to transport oxygen to the cells is reduced.  ATP production is slower in oxygen-poor environments. 
+which means ->
 the % of erythrocytes is lower than normal
 OR 
 the oxygen-carrying capacity of the blood is reduced which could be because the amount of hemoglobin in the erythrocytes is abnormal. 
