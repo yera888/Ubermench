@@ -9,3 +9,5 @@ Mature erythrocytes lack nuclei and organelles so its more appropriate to call i
 
 
 ![[Pasted image 20260312161056.png]]
+
+Every erythrocyte is filled with 280 million molecules of a red pigmented protein called [[hemoglobin]].
