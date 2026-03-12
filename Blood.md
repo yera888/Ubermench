@@ -14,7 +14,7 @@ Transports [[elements]] and [[compounds]] through the body. gases, hormones, nut
 ###### Regulation
 Maintains body temperature.
 
-Balances Ph in the bodies tissue. and respiratory and urinary system.
+Balances Ph in the bodies tissue. If blood PH falls below 7.35 acidosis occurs if it rises above 7.45 alkalosis occurs. and respiratory and urinary system.
 
 Defense 
 against microorganisms like viruses and bacteria.
