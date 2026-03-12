@@ -1,0 +1,1 @@
+any microorganism—such as bacteria, viruses, fungi, or parasites—that causes disease in a host
