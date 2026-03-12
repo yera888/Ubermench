@@ -1,0 +1,1 @@
+Molecules that bind to these are called [[antibodies]] they bind until the immune system destroys the antigen 

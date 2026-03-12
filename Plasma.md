@@ -1,3 +1,24 @@
+Made of:
+**Water:** Most abundant compound = 92% of total volume. 
+Proteins and solutes are dissolved with the water. 
+**Protein:** 
+All of these proteins regulate blood PH.
+-Plasma proteins = 7% of plasma 
+- albumins
+- globulins
+- fibrinogen
+- [[regulatory proteins]]
+When clotting proteins are removed the remaining fluid is called [[serum]].
+
+**Solutes:**
+They make up less than 1% of blood plasma. 
+- Electrolytes: sodium, potassium, chloride ions, nutrients, oxygen and carbon dioxide, hormones and waste products. 
+- Organic nutrients
+- Organic wastes: Carried to sites of breakdown or excretion
+
+
+
+
 Its a highway that carries [[white blood cells]] and [[protein]] to the scene when they group up to destroy or digest a germ like [[bacteria]] or [[virus]].
 
 This is a process known as [[phagocytosis]].
@@ -5,6 +26,7 @@ This is a process known as [[phagocytosis]].
 ---
 It mostly transports the **liquid contents of blood** and also carries **some carbon dioxide**.
 
+The proteins from here protect the body against blood loss by forming [[blood clots]]. 
 ###### Transportation
 Transports nutrients that have been absorbed from the GI tract, transports hormones secreted by endocrine glands. Carries some waste products from the cells to organs like the kidneys where the waste is removed. 
 
