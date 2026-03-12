@@ -35,5 +35,13 @@ Erythropoiesis -> (what stimulates the production of RBC hormone made in the kid
 3. Once they're aged thy are phagocytized in the liver and spleen
 4. The heme components are recycled 
 	1. (minus iron) first converted into biliverdin which is converted into [[bilirubin]]. 
-	2. (THE iron ions left over) is transported in the blood by the protein transferrin and stored by protein ferritin in the liver. 
-5. Erythrocyte membrane proteins and goblin proteins are broken down into amino acids which some then make new RBC
+	2. (THE iron ions left over) is transported in the blood by the protein transferrin to the liver and stored by protein ferritin in the liver which will be transported to the red bone marrow as needed. 
+5. Erythrocyte membrane proteins and goblin proteins are broken down into free amino acids which some then make new RBC
+
+---
+
+## Anemia
+the % of erythrocytes is lower than normal
+OR 
+the oxygen-carrying capacity of the blood is reduced which could be because the amount of hemoglobin in the erythrocytes is abnormal. 
+There is a decreased oxygen delivery to body tissues and the heart must work harder to supply oxygen to the body. 
