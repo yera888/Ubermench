@@ -12,6 +12,10 @@ Carry oxygen from the lungs to the body cells and carry carbon dioxide from the 
 
 most oxygen is carried by **hemoglobin inside red blood cells**, while carbon dioxide is carried in multiple ways, including in **plasma**.
 
+- They shrink in solutions that contain excessive salt or other material . 
+
+- Water flows out by [[osmosis]]
+
 Mature erythrocytes lack nuclei and organelles so its more appropriate to call it a formed element instead of a cell. Since it has no nucleus or cellular organelles it has a shorter lifespan of 120 days. As erythrocytes travel through the body it becomes less flexible and more fragile. 
 
 1% of erythrocytes leave circulation everyday they go through [[phagocytosis]]
@@ -25,8 +29,9 @@ Every erythrocyte is filled with 280 million molecules of a red pigmented protei
 ## Life cycle 
 How they are recycled.
 
-1. Erythrocytes form in [[red bone marrow]] 
-2. They enter the blood and circulate for 120 days
+Erythropoiesis -> 
+1. Erythrocytes form in [[red bone marrow]], begins with cells called hemocytoblasts or [[stem cells]]
+2. They enter the blood through capillaries by squeezing through the wall in a process called diapedesis. and circulate for 120 days
 3. Once they're aged thy are phagocytized in the liver and spleen
 4. The heme components are recycled 
 	1. (minus iron) first converted into biliverdin which is converted into [[bilirubin]]. 
