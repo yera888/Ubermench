@@ -5,7 +5,7 @@ Carry oxygen from the lungs to the body cells and carry carbon dioxide from the 
 
 most oxygen is carried by **hemoglobin inside red blood cells**, while carbon dioxide is carried in multiple ways, including in **plasma**.
 
-Mature erythrocytes lack nuclei and organelles so its more appropriate to call it a formed element instead of a cell.
+Mature erythrocytes lack nuclei and organelles so its more appropriate to call it a formed element instead of a cell. Since it has no nucleus or cellular organelles it has a shorter lifespan. 
 
 
 ![[Pasted image 20260312161056.png]]

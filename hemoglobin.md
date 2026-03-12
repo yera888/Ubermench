@@ -6,5 +6,9 @@ Oxygenated = bright red
 
 when oxygen is lost and carbon dioxide is gained during respiratory gas exchanged = [[deoxygenated]]
 
-Deoxygenated = dark red color
+Deoxygenated = dark red color NOT blue
+
+
+
+
 
