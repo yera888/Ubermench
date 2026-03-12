@@ -1,0 +1,1 @@
+Antigen that initiate a hypersensitive or allergic reaction.
