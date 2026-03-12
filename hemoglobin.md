@@ -2,3 +2,6 @@ Transports oxygen and carbon dioxide. Its gives blood its reddish color but the 
 
 Blood maximally loaded with oxygen = oxygenated
 
+Oxygenated = bright red
+
+when oxygen is lost and carbon dioxide is gained 
