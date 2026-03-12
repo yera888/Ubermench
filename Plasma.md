@@ -1,3 +1,4 @@
+The fluid portion of blood.
 Made of:
 **Water:** Most abundant compound = 92% of total volume. 
 Proteins and solutes are dissolved with the water. 

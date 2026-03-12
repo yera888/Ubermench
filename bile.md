@@ -1,0 +1,1 @@
+When bile enters the GI tract it helps breakdown fats. 

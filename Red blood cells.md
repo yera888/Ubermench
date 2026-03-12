@@ -1,4 +1,4 @@
-Transports oxygen and carbon dioxide between the tissue and the lungs.
+Transports oxygen(by [[hemoglobin]]) and carbon dioxide between the tissue and the lungs.
 @lungs = RBC pick up oxygen
 -> carries it to body's tissue
 
@@ -20,3 +20,14 @@ Mature erythrocytes lack nuclei and organelles so its more appropriate to call i
 ![[Pasted image 20260312161056.png]]
 
 Every erythrocyte is filled with 280 million molecules of a red pigmented protein called [[hemoglobin]].
+
+---
+## Life cycle 
+How they are recycled.
+
+1. Erythrocytes form in [[red bone marrow]] 
+2. They enter the blood and circulate for 120 days
+3. Once they're aged thy are phagocytized in the liver and spleen
+4. The heme components are recycled 
+	1. (minus iron) first converted into biliverdin which is converted into [[bilirubin]]. 
+

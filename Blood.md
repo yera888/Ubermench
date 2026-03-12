@@ -1,5 +1,5 @@
-
-Its a regenerative **fluid** connective tissue - made of living cells suspended in a nonliving matrix (liquid ground substance; The fluid ground substance [[Plasma]]) and dissolved proteins. 
+Its a regenerative **fluid** connective tissue - made of living cells suspended a pale yellow fluid(liquid ground substance; The fluid ground substance [[Plasma]]) and dissolved proteins. 
+so you have plasma and [[Formed elements]] or [[Corpuscles]]. 
 
 X4 more viscous then water. 
 
