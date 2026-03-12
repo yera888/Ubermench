@@ -1,4 +1,8 @@
 Transports oxygen and carbon dioxide between the tissue and the lungs.
+@lungs = pick up oxygen
+-> carries it to body's tissue
+@tissue = carry carbon dioxide away
+-> back to the lungs
 Their structure enables them to carry respiratory gases proficiently. 
 
 Carry oxygen from the lungs to the body cells and carry carbon dioxide from the body cells back to the lungs.
