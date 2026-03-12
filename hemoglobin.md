@@ -1,4 +1,8 @@
-Oxygen binding substance contains heme which 
+Oxygen binding molecule:
+4 protein subunits -> globins
+each contains a heme group which is a ringed molecule with 1 [[iron]] in the center. 
+Each molecule has 4 oxygen molecules that are attracted to the iron. 
+
 A [[pigment]] that transports oxygen and a small amount of carbon dioxide (which is majorly transported by plasma).
 Its gives blood its reddish color but the shade of that red will vary depending on how much oxygen is being transported. 
 
