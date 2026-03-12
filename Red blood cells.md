@@ -1,17 +1,20 @@
 Transports oxygen and carbon dioxide between the tissue and the lungs.
-@lungs = pick up oxygen
+@lungs = RBC pick up oxygen
 -> carries it to body's tissue
-@tissue = carry carbon dioxide away
+
+@tissue = RBC help carry carbon dioxide away
 @in the blood the CO2 gets converted into bicarbonate which makes it easier to transport through the bloodstream to the lungs. 
 -> back to the lungs
-@lungs it gets converted back into CO2 and you breathe it out 
+@lungs: bicarbonate gets converted back into CO2 and CO2 is breathed out 
 Their structure enables them to carry respiratory gases proficiently. 
 
 Carry oxygen from the lungs to the body cells and carry carbon dioxide from the body cells back to the lungs.
 
 most oxygen is carried by **hemoglobin inside red blood cells**, while carbon dioxide is carried in multiple ways, including in **plasma**.
 
-Mature erythrocytes lack nuclei and organelles so its more appropriate to call it a formed element instead of a cell. Since it has no nucleus or cellular organelles it has a shorter lifespan. 
+Mature erythrocytes lack nuclei and organelles so its more appropriate to call it a formed element instead of a cell. Since it has no nucleus or cellular organelles it has a shorter lifespan of 120 days. As erythrocytes travel through the body it becomes less flexible and more fragile. 
+
+1% of erythrocytes leave circulation everyday they go through [[phagocytosis]]
 
 
 ![[Pasted image 20260312161056.png]]
