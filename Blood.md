@@ -14,7 +14,7 @@ Transports [[elements]] and [[compounds]] through the body. gases, hormones, nut
 ###### Regulation
 Maintains body temperature.
 
-Balances Ph in the bodies tissue. If blood PH falls below 7.35 acidosis occurs if it rises above 7.45 alkalosis occurs. There is always a constant exchange of fluid between blood plasma and the interstitial fluid. However if too much fluid is in the blood then = high blood pressure. And if too mych fluid leaves the blood plasma and enters the interstitial bluid = very low blood pressue and the tissues swell with too much fland respiratory and urinary system.
+Balances Ph in the bodies tissue. If blood PH falls below 7.35 acidosis occurs if it rises above 7.45 alkalosis occurs. There is always a constant exchange of fluid between blood plasma and the interstitial fluid. However if too much fluid is in the blood then = high blood pressure. And if too much fluid leaves the blood plasma and enters the interstitial fluid = very low blood pressure and the tissues swell with too much fluid, blood has salts and proteins to prevent the excess of fluid loss from the plasma. and respiratory and urinary system.
 
 Defense 
 against microorganisms like viruses and bacteria.
