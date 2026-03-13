@@ -5,4 +5,6 @@ Reside in lymphatic structures and organs they're about 20- 40% of all leukocyte
 
 [[B-lymphocytes(B-cells)]]
 
-[[T-lymphocytes]]
+[[T-lymphocytes(T-cells)]]
+
+[[Natural Killer Cells(NK cells)]]
