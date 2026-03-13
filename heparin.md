@@ -1,0 +1,1 @@
+inhibits blood clotting through anticoagulation 
