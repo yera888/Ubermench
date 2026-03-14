@@ -4,4 +4,4 @@ As a result bleeding and anemia are the first signs of leukemia.
 
 Acute leukemia = progresses fast if untreated death will happen after a few months of symptoms like anemia, hemorrhages and reoccurring infections. 
 
-Chronic leukemia = progresses slowly survival exceeds 2 year from onset symptoms.
+Chronic leukemia = progresses slowly survival exceeds 1 year from onset symptoms.
