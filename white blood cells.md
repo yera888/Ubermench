@@ -8,8 +8,11 @@ This could result from viral or bacterial infections or toxins that damaged the 
 Elevated leukocyte count = leukocytosis 
 Indicative of infection, inflammatory reaction or physiologic stress. 
 
+Elevated WBC count = [[microbial infection]]
 
+General reduction in WBC = [[leukopenia]]
 
+Above-average population in WBC = [[leukemia]] 
 Developed by/in [[red bone marrow]] through a process called [[diapedesis]]. 
 
 
