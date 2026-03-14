@@ -24,3 +24,6 @@ When body is more active it needs more oxygen and nutrients delivered at a faste
 ![[Pasted image 20260314185519.png]]
 ![[Pasted image 20260314185533.png]]
 ![[Pasted image 20260314185555.png]]
+
+
+[[**fibrous skeleton**]] of the heart is dense connective tissue that separates the atria from the ventricles, anchors the valves, provides attachment for cardiac muscle, and electrically insulates the atria from the ventricles.
