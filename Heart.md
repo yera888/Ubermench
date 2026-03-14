@@ -6,3 +6,5 @@ The arteries and veins that enter and leave the heart are called the great vesse
 Blood pumped from one ventricle per minute -> cardiac output.
 [[Valves]] ensure unidirectional flow.
 When body is more active it needs more oxygen and nutrients delivered at a faster pace so it increases output 5 or 6 fold. 
+
+## Position
