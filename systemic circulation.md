@@ -1,0 +1,1 @@
+Transports oxygenated blood from the left side through the blood vessels to systemic capillaries like those in the liver, skin, muscle, and brain
