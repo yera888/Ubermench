@@ -21,5 +21,6 @@ Blood pumped from one ventricle per minute -> cardiac output.
 [[Valves]] ensure unidirectional flow.
 When body is more active it needs more oxygen and nutrients delivered at a faster pace so it increases output 5 or 6 fold. 
 
-Start: right atrirum 
-## 
+![[Pasted image 20260314185519.png]]
+![[Pasted image 20260314185533.png]]
+![[Pasted image 20260314185555.png]]
