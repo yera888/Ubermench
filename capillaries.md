@@ -1,1 +1,1 @@
-Site of exchange between the blood and the [[alveoli]]  of the lungs or between blood and systemic cells. 
+Site of exchange between the blood and the [[alveoli]] of the lungs or between blood and systemic cells. 
