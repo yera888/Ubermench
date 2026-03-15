@@ -77,3 +77,6 @@ LASTLY - >
 
 these bundles conduct impulse to conduction fibers called subendocardial branches that begin with the apex and extend through the walls of the ventricles and these impulses spread through the ventricular myocardium.
 
+vasoconstriction -> when the lumen narrows, when the smooth muscle contracts 
+
+vasodilation -> smooth muscle relaxes and diameter of blood vessel increases
