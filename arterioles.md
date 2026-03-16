@@ -1,0 +1,1 @@
+The smallest ones only have endothelium surrounded by a single layer of smooth muscle vasoconstriction here raises blood pressure and vasocontraction decreases it into the capillaries 
