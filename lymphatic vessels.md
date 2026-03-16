@@ -8,7 +8,8 @@ lymphatic capillaries:
 They are intertwined with most blood capillaries. 
 
 
-lymphatic vessels
+lymphatic vessels:
+Are similar to small veins because they contain intima, media and extra and have valves in their lumen.
 
 
 
