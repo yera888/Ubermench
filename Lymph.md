@@ -1,1 +1,1 @@
-15% of interstitial fluid that doesnt 
+15% of interstitial fluid that doesn't get reabsorbed back into the vessels and goes 
