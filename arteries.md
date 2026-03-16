@@ -12,5 +12,5 @@ The amount an artery can vasoconstrict depends on the proportion of smooth muscl
 Elastic arteries are the largest ones they move them into smaller muscular arteries they have many elastic fibers in the tunica media. 
 elastic arteries -> muscular arteries
 
-muscular arteries
+muscular arteries:  brachial, anterior tibial, coronary inferior mesenteric
 muscular arteries -> arterioles 
