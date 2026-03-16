@@ -7,3 +7,6 @@ The lymphatic system aids in body fluid homeostatic preventing interstitial flui
 [[lymphoid organs]] 
 
 [[lymphoid nodules]] 
+
+[[spleen]]
+
