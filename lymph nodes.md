@@ -1,0 +1,1 @@
+Primary function: filter antigens from lymph and initiate an immune response when necessary. 
