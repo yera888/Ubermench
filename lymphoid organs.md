@@ -1,4 +1,4 @@
-- [[thymus]]
+- [[thymus]] 
 - lymph nodes
 - spleen 
 

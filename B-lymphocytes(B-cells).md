@@ -8,3 +8,5 @@ Stimulated to...
 -> Produce antibodies 
 
 These [[plasma cells]] produce antibody molecules and enter the blood stream and interact with those that summoned them and this interaction usually leads to their DISTRCUTION 
+
+Maybe matures and differentiated in Red bone marrow
