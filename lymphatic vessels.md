@@ -1,5 +1,4 @@
-Transport dietary lipids, larger lipids and lipid-soluble vitamins cant enter the blood from the GI tract instead they transport through [[lacteals]] which drain inter larger lymphatic vessels and into the circulatory system. 
-
+Transport dietary lipids, larger lipids and lipid-soluble vitamins cant enter the blood from the GI tract instead they transport through [[lacteals]] which drain inter larger lymphatic vessels and into the circulatory system.  Which is why the lymphatic system helps the digestive system. ![[Pasted image 20260316202143.png]]
 Size smallest to largest:
 
 (microscopic vessels)
