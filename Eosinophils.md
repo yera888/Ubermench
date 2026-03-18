@@ -5,5 +5,5 @@ EO - SIN for (red colored granules)
 
 Increase in number when they encounter antigen or [[allergens]] .
 
-If body is infected by germs they release chemical mediator to attack the worms. [[parasites]]
+If body is infected by germs they release chemical mediator to attack the worms. [[parasites]] SITES - SIN
 
