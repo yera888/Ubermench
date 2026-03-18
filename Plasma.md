@@ -13,7 +13,7 @@ When clotting proteins are removed the remaining fluid is called [[serum]].
 
 **Solutes:**
 They make up less than 1% of blood plasma. The amount varies depending on if oxygenated or not.
-- Electrolytes: sodium, potassium, chloride ions, nutrients, oxygen and carbon dioxide, iron, hydrogen.
+- Electrolytes: sodium, potassium, chloride ions, nutrients, oxygen and carbon dioxide, iron, hydrogen-> they help maintain membrane potentials, maintain PH, regulate osmosis.
 - Hormones: insulin, thyroid, testosterone estrogen.
 - Organic nutrients: Used for ATP production and maintenance of cells.
 - Organic wastes: Carried to sites of breakdown or excretion like ammonia, lactic acid. 
