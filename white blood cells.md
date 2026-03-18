@@ -19,7 +19,7 @@ Developed by/in [[red bone marrow]] through a process called [[diapedesis]].
 
 
 Two major groups:
-## [[Granulocytes]]- small grain. 
+## [[Granulocytes]]- small grain.  60%
 
-## [[Agranulocytes]]- much smaller granules that they are overlooked.
+## [[Agranulocytes]]- much smaller granules that they are overlooked. 30%
 
