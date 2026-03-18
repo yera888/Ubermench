@@ -1,3 +1,5 @@
+These elevate in bloodstream when their is an infection or physiological stress.
+
 Is both a TRUE cell (with nucleus and cellular organelles) and a formed element. Helps guard against infection by mounting an immune response if a [[pathogen]] or an [[antigen]] is found. Function in body tissues.
 
 - Infants have more
