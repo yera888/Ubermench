@@ -1,0 +1,1 @@
+it atrophies throughout life and undergoes degeneration during puberty. Function is for [[T-lymphocytes(T-cells)]] to mature . immature ones migrate there during embryonic development this stuff only happens when you're young when you have reached adulthood differentiated T-lymphocytes can be produced by cell division. 

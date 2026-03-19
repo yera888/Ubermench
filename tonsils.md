@@ -1,0 +1,1 @@
+They have crypts that help trap material and help identify what the material is by lymphocytes. Several groups occur in the pharynx = pharyngeal tonsil, palatine tonsil, lingual tonsil 

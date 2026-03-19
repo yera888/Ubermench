@@ -1,0 +1,1 @@
+Component of a digestive secretion called [[bile]] produced by liver cells. When bile enters the GI tract it helps breakdown fats. 

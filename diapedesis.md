@@ -1,0 +1,1 @@
+White blood cells leave a vessel by squeezing through an endothelial cell of the blood vessel wall. They wake up because they are attracted to the site of infection by molecules released by damaged, dead, mast cells or invading pathogens through chemotaxis. 

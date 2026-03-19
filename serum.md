@@ -1,0 +1,1 @@
+Commonly used as a source of antibodies for immune therapy. 
