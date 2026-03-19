@@ -13,5 +13,5 @@ Elastic arteries are the largest ones they move them into smaller muscular arter
 elastic arteries -> muscular arteries
 
 muscular arteries:  brachial, anterior tibial, coronary inferior mesenteric
-muscular arteries -> [[arterioles]]/
+muscular arteries -> [[arterioles]]
 
