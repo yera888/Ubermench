@@ -4,5 +4,5 @@
 
 [[Intestinal trunk]] -> abdomen
 
-[[lumbar trunk]] -> lower limbs, abdominopelvic wall and pelvic organs. 
+[[lumbar trunk]] -> lower limbs, abdominopelvic wall ,and pelvic organs. 
 
