@@ -1,0 +1,1 @@
+[[opensim_scripting]] is a python/conda enviornment
