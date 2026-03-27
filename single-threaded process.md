@@ -1,0 +1,1 @@
+a process that has only one thread of control so it executes on one core at a time. 

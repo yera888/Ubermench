@@ -1,0 +1,1 @@
+a process with many threads of control allowing multiple simultaneous execution points. Still shares code, data and files but has separate threads, registers, stacks, and PCs
