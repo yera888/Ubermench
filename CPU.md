@@ -9,3 +9,8 @@ i5-i7 is the best for the average consumer. The generation is the generation of 
 
 GENERATION MATTERS FOR INTEL
 a Core i3 14th Gen can beat Core i9 5th Gen. 
+
+#### Intel Core Ultra 
+less powerful than intel core but more efficient and often feature NPU - an ai processor 
+
+9-5 
