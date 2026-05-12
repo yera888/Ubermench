@@ -14,3 +14,6 @@ a Core i3 14th Gen can beat Core i9 5th Gen.
 less powerful than intel core but more efficient and often feature NPU - an ai processor 
 
 9-5 
+
+Intel Core Ultra processors take the crown, especially in less computationally intensive tasks. Intel Core Ultra is essentially the same processor, but with different approaches to power, but just because it is new does not mean it is inherently better.
+Core Ultra Processors manage to have a substancial advantage over Intel Core Processors with the sheer efficiency.
