@@ -1,0 +1,3 @@
+Is whole what does that mean? no fraction or decimal, but also cant be negative 
+
+0,1,2,3...

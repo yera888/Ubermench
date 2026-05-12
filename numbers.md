@@ -1,0 +1,6 @@
+[[whole numbers]]
+[[rational numbers]]
+[[imaginary numbers]]
+[[irrational numbers]]
+[[integers]]
+[[natural numbers]]
