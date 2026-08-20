@@ -12,3 +12,13 @@ Organisms used in genetic research that serve as models for the genetic systems 
 - Large and manageable # of progeny 
 - Adaptability to a lab environment: They have a more controlled environment where you can keep "forms of metrics" consistent, and trackable. 
 - Ability to house and propagate inexpensively. 
+
+
+##### Old Science
+
+In 800 BC 
+
+
+##### Domestication of Pigs 
+
+Started 10,000 years ago. 
