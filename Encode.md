@@ -1,0 +1,1 @@
+Store instructions A, T, C, G that can be read and used. 

@@ -1,3 +1,6 @@
+Long nucleotide sequences are apparently a letter of an allele A or B in a gene ?????
+
+
 Each nucleotide has:
 
 - a **sugar** (deoxyribose)

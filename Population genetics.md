@@ -1,2 +1,2 @@
-The genetic composition of populations and how it changes geographically over time
+The genetic composition of populations and how it changes geographically over time. 
 
