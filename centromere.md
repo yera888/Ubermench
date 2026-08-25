@@ -1,0 +1,1 @@
+Spindle fibers form from = kinetochore 

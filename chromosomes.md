@@ -25,9 +25,14 @@ Your chromosomes come in **pairs** (called _homologous chromosome pairs_).
         
     - the other is the “dad version”
         
-- Here there are 2 sets of chromosomes **(Diploid)**
+- Here there are 2 sets of chromosomes **(Diploid)**: everything that isn't a reproductive cell 
+- Haploid -> reproductive cells, one set of chromosome
 
 Those two chromosomes carry **the same list of genes in the same locations**, like two copies of the same book.
+
+Each chromatid is a dna molecule 
+Sister chromatids = one chromosome -> connected by a [[centromere]]
+Based on how many centromeres there are is how you calculate how many chromosomes there are. This means if there is a single dna molecule or two dna molecules they're still considered one chromosome. 
 
 So for a given gene (say, a gene involved in eye pigment):
 
