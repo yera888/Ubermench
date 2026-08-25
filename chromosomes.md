@@ -25,10 +25,14 @@ Your chromosomes come in **pairs** (called _homologous chromosome pairs_).
         
     - the other is the “dad version”
         
+- Here there are 2 sets of chromosomes **(Diploid)**
 
 Those two chromosomes carry **the same list of genes in the same locations**, like two copies of the same book.
 
 So for a given gene (say, a gene involved in eye pigment):
+
+> [!note]
+> At the same locus where the alleles are found
 
 - you have **one copy (allele)** of that gene on mom’s chromosome
     
