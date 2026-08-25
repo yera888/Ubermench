@@ -1,0 +1,1 @@
+When chromosomes have the same size they are homologous chromosome pairs. They are different colors to show they come from different parents. Before the cell divides there should be replication. 
