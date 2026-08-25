@@ -30,7 +30,16 @@ The SISTER CHROMOSOMES SEPARATE  < Exam Q
 #### Crossing Over 
 
 * Doesn't happen all the time
-The S phase happens to non-sister chromatids 
-#### 
+* Each cell is different in the end
+
+> [!see also]
+> The S phase happens to non-sister chromatids 
+
+There are no sister chromatids before replication> if not replication the "Copying" that occurs after DNA synthesis.
+
+Synthesis is creation
+#### Independent Assortment: Random Alignment & Separation of homologous chromosomes 
+
+
 
 

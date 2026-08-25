@@ -112,3 +112,4 @@ Sometimes without the coenzymes or cofactors the enzyme wont work at all.
 Enzymes like acidic PH, different enzymes have ideal PH and temperature and they become denatured and cant work correctly when this PH or temperature changes. 
 
 
+before cell divides there is dna replication 
