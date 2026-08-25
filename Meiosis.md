@@ -40,6 +40,8 @@ There are no sister chromatids before replication> if not replication the "Copyi
 Synthesis is creation
 #### Independent Assortment: Random Alignment & Separation of homologous chromosomes 
 
+There is a 50% chance that the material and paternal which switch sides (Left or right). Sometimes the order switches and those changes are independent 
+
 
 
 
