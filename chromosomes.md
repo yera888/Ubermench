@@ -1,5 +1,7 @@
 Chromosomes can occur alone, in duplicate, triplicate, or even higher combinations of homologous sets [[ploidy]].
 
+The origin of replication is also copied, when there are 2 in the cell they eventually split. 
+
 [[autosomes]]
 
 Because information in chromosomes is present in duplicate, a deleterious mutation affecting gene expression or activity in one chromosome may be masked by the presence of a functional copy of the gene in the other.
