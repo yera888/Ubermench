@@ -1,1 +1,3 @@
 mutations in body cells; affects tissues and isn't usually inherited. 
+
+Soma - singular 
