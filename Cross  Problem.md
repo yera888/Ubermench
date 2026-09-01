@@ -35,3 +35,5 @@ Look into how to integrate written notes with ipad to obsidian. maybe i can send
 
 > [!question]
 > Is this similar to cross product ?
+
+#Chapter-4 
