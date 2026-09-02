@@ -1,0 +1,1 @@
+A small part of the DNA that is found by a DNA sequence 

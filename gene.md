@@ -1,4 +1,5 @@
-a specific DNA segment with instructions or a region of DNA like a portion of the DNA
+a specific [[DNA segment]] with instructions to encode a trait. 
+>These instructions tell the cells how to create molecules. 
 
 - Most of your genes (coding + noncoding) are on your **chromosomes** in the nucleus.
     
