@@ -8,6 +8,6 @@ Two alleles in a gene, one from each parent.
 
 Dominant and Recessive is used to describe the relationship alleles can have with one another when they're OF the same gene but not a relationship between genes themselves.
 
-If the organism is diploid it can only have two copies of a gene and there are only 2 possible alleles Ex: C and c 
+If the organism is diploid it can only have two copies of each gene locus and there are only 2 possible alleles Ex: C and c 
 
 For example, in Mendel's study, peas had a wrinkled allele and a round allele.
