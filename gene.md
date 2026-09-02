@@ -1,4 +1,4 @@
-a specific [[DNA segment]] with instructions to encode a trait. 
+a specific [[DNA segment]] with instructions to encode a trait. Traits are influenced by genes. 
 >These instructions tell the cells how to create molecules. 
 
 > [!hint] Cool
