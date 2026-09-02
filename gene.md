@@ -1,6 +1,10 @@
 a specific [[DNA segment]] with instructions to encode a trait. 
 >These instructions tell the cells how to create molecules. 
 
+> [!hint] Cool
+> Approximately 100,000 genes in the nucleus of a human cells
+
+
 - Most of your genes (coding + noncoding) are on your **chromosomes** in the nucleus.
     
 - You also have a small extra genome in **mitochondria** ([[mtDNA]]), with a handful of genes.
